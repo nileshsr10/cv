@@ -1,0 +1,48 @@
+
+ body {
+    background-color:rgb(158, 213, 245);
+    background-blend-mode: hue;
+  }
+  h1
+  { text-decoration: solid;
+    font-family: cursive;
+    outline-color: red;
+    border-color: red;
+    color: rgb(15, 3, 3);
+  }
+
+  h3{font-family: fantasy;
+    font-size: 30px;
+    color: rgb(126, 10, 29);}
+
+ table {
+    
+    border-bottom-style: dashed;
+    border-color: grey;
+    border-width: thick;
+    
+  }
+
+  ul{
+    border-color: grey;
+    border-width: thick;
+    border-bottom-style: dashed;
+    font-size: 20px;
+  }
+  #date{
+    background-color: pink;
+  }
+  #name{
+    background-color: pink;
+  }
+  #feedback{
+    background-color: palevioletred;
+  }
+ span
+ { font-size: 20px;
+    font-family: cursive;
+ }
+
+
+  
+ 
